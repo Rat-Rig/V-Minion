@@ -6,12 +6,15 @@ hide:
 
 # Bill of Materials (BOM)
 
-Below you can find the full bill of materials for the {{ config.extra.product_name }}.
+Below you can find the full bill of materials for the {{ ratrig.product_name }}.
 
 {{ hardware_bom("bom/vminion_26122021_2152.csv") }}
 
 ### Printed parts
-{{ printed_parts_bom("bom/printed_parts.csv") }}
+{{ printed_parts_bom("machine", "bom/machine.json") }}
+
+
+{{ printed_parts_bom("electronics case", "bom/elecronics_case.json") }}
 
 ## EVA
 <img align="right" alt="EVA Logo" width="100" src="/assets/eva_logo.png">
