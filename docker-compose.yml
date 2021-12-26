@@ -1,11 +1,13 @@
 version: "3.7"
 
 services:
-  v3_page:
+  page:
     build:
       context: .
     command: "mkdocs serve -a 0.0.0.0:8000"
     volumes:
-      - "./:/app/"
+      - "./docs/:/app/docs"
+      - "./cad/:/app/cad"
+      - "./ratrig-productpages/:/app/ratrig-productpages"
     ports:
       - 62999:8000

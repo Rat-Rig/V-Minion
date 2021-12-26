@@ -10,9 +10,9 @@ hide:
 ![](/assets/splash.png)
 </center>
 
-<center><iframe width="1000" height="600" src="{{ config.extra.splash_video_url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="1000" height="600" src="{{ ratrig.splash_video_url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<center>[Order Now!]({{ config.extra.order_url }}){: .md-button .md-button--primary target=_blank }</center>
+<center>[Order Now!]({{ ratrig.order_url }}){: .md-button .md-button--primary target=_blank }</center>
 
 <div
     class="cloudimage-360"
