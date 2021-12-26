@@ -92,7 +92,7 @@ markdown_extensions:
 
 nav:
     - index.md
-    - Order: https://www.ratrig.com/" target="_blank
+    - Order: https://www.ratrig.com/v-minion.html" target="_blank
     - bom.md
     - printed_parts.md
     - electronics.md
@@ -100,6 +100,6 @@ nav:
     - Build Guide: https://ratrig.dozuki.com/c/02._Rat_Rig_V-Minion" target="_blank
     - contribution.md
     - community.md
-    - Gallery: https://www.ratrig.com/" target="_blank
+    # - Gallery: https://www.ratrig.com/" target="_blank
     - videos.md
     - Contact: mailto:info@ratrig.com
