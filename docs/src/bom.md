@@ -8,15 +8,10 @@ hide:
 
 Below you can find the full bill of materials for the {{ config.extra.product_name }}.
 
-## Mechanical kit
-
-{{ hardware_bom("bom/full_bom.csv") }}
+{{ hardware_bom("bom/vminion_26122021_2152.csv") }}
 
 ### Printed parts
 {{ printed_parts_bom("bom/printed_parts.csv") }}
-
-## Electronics
-{{ hardware_bom("bom/electronics.csv") }}
 
 ## EVA
 <img align="right" alt="EVA Logo" width="100" src="/assets/eva_logo.png">
