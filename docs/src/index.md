@@ -63,7 +63,7 @@ The V-Minion has a comprehensive step-by-step build guide in both static and ani
 ![](/assets/community.jpg)
 Rat Rig maintains an active user community on Facebook where you can connect with other users of Rat Rig products. Come join us to share builds, knowledge, mods, and stay up to date on all current and future products.
 
-[:material-facebook: Rat Rig 3D Printer Community]({{ config.extra.facebook_url }}){: .md-button .md-button--primary}
+[:material-facebook: Rat Rig 3D Printer Community]({{ ratrig.facebook_url }}){: .md-button .md-button--primary}
 
 ## Sample Prints / Parts
 

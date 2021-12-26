@@ -6,13 +6,13 @@ hide:
 
 ## Official printed parts
 
-Rat Rig provides the source files for all official printed parts in both STL and STEP formats, as well as both STEP and DXF formats for any CNC cut panels. There can all be found on the [:material-github: {{ config.extra.product_name}} GitHub repository]({{ config.repo_url }}/tree/main/cad/). 
+Rat Rig provides the source files for all official printed parts in both STL and STEP formats, as well as both STEP and DXF formats for any CNC cut panels. There can all be found on the [:material-github: {{ ratrig.product_name}} GitHub repository]({{ config.repo_url }}/tree/main/cad/). 
 
 Alternatively, if preferred, the whole project repository can be downloaded in a [:fontawesome-solid-archive: single ZIP package]({{ config.repo_url }}/archive/main.zip).
 
 ## CAD
 
-The 3D CAD model is freely available to view and download from [:fontawesome-solid-folder-open: Onshape]({{ config.extra.cad_url }}){ target="_blank" }.
+The 3D CAD model is freely available to view and download from [:fontawesome-solid-folder-open: Onshape]({{ ratrig.cad_url }}){ target="_blank" }.
 
 ## Recommended print settings
 
