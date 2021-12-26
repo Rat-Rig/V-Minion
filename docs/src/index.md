@@ -37,17 +37,17 @@ The V-Minion features linear rails on all 3 axes, providing smooth and quiet mot
 ![](/assets/feature_linear_rails.png)
 
 ### Precision Milled Bed
-The V-Minion features a custom made, precision milled, 5mm bed plate designed for exceptional flatness and heat stability. Going one step further, we have worked directly with Keenovo, industry leaders in silicone heaters, to develop a bed heater which is both high performance, and safe due to its built in thermal protection.
+The V-Minion features a custom made, precision milled, 5mm bed plate designed for exceptional flatness and heat stability. Going one step further, we have worked directly with Keenovo, industry leaders in silicone heaters, to develop a bed heater which is both high performance, and safe due to its built-in thermal protection.
 ![](/assets/feature_bed.png)
 ![](/assets/feature_bedheater.png)
 
 ### Enclosed Electronics Case
-All of the V-Minion electronics fit into the specially designed case. It has been designed to house the power supply, a Raspberry Pi, as well as your printer mainboard, all whilst providing cooling via a built-in 40mm fan. The default design supports the BTT SKR2, BTT SKR Mini and the BTT Octopus mainboards. The side panels are CNC manufacturered from 4mm Polycarbonate, making them incredibly strong, but can also be printed if you desire.
+All of the V-Minion electronics fit into the specially designed case. It has been designed to house the power supply, a Raspberry Pi, as well as your printer mainboard, all whilst providing cooling via a built-in 40mm fan. The default design supports the BTT SKR2, BTT SKR Mini and the BTT Octopus mainboards. The side panels are CNC manufactured from 4mm Polycarbonate, making them incredibly strong, but can also be printed if you prefer.
 ![](/assets/feature_case_1.png)
 ![](/assets/feature_case_2.png)
 
 ### Spool Holder
-The on-frame spool holder is designed to compliment the V-Minion. Based upon the same 30 series extrusion as the rest of the printer, it keeps your filament close by and makes moving the printer a breeze because the filament comes with you.
+The on-frame spool holder is designed to complement the V-Minion. Based upon the same 30 series extrusion as the rest of the printer, it keeps your filament close-by and makes moving the printer a breeze because the filament comes with you.
 ![](/assets/feature_spoolholder.png)
 
 ### RatOS
@@ -71,7 +71,7 @@ Coming soon!
 
 ## Acknowledgments
 
-The V-Minion is an open-source project which is a result of countless hours of collabiration between our design team, the 3D printing community, and our beta team, all sho share their knowledge freely to help push the 3D printing space forward as a whole. Being developed by using such a vast array of knowledge means that it is difficult to trace back any one idea, thus making attributions difficult at best. Regardless, we would like to acknowledge the following people and projects for their contribution to the V-Minion. They are as follows (in no particular order):
+The V-Minion is an open-source project which is a result of countless hours of collaboration between our design team, the 3D printing community, and our beta team, all of whom share their knowledge freely to help push the 3D printing space forward as a whole. Being developed by using such a vast array of knowledge means that it is difficult to trace back any one idea, thus making attributions difficult at best. Regardless, we would like to acknowledge the following people and projects for their contribution to the V-Minion. They are as follows (in no particular order):
 
 - Paweł Kucmus
 - João Barros
