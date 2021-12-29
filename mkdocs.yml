@@ -8,13 +8,6 @@ copyright: Copyright &copy; 2021 Rat Rig
 extra:
   generator: false
 
-  product_name: "V-Minion"
-  order_url: https://www.ratrig.com/v-minion.html
-  cad_url: https://cad.onshape.com/documents/add64f74e30145959e1cbde0/v/39a80a1473c182e2136e3513/e/d4e2083009506aec4ba7620a
-  splash_video_url: https://www.youtube.com/embed/QXFAqerE9ws
-  facebook_url: https://www.facebook.com/groups/ratrig3dprintercommunity
-  discord_url: https://discord.gg/D62e8XNeYa
-
 repo_name: V-Minion
 repo_url: https://github.com/Rat-Rig/V-Minion
 
@@ -39,11 +32,15 @@ theme:
     - search.highlight
 
 plugins:
-  - monorepo
   - search
-  - macros:
-      module_name: src/plugin
   - awesome-pages
+  - ratrig-productpages-plugin:
+      product_name: "V-Minion"
+      order_url: https://www.ratrig.com/v-minion.html
+      cad_url: https://cad.onshape.com/documents/15a2d417ffe6419f44f2b12e/w/92c82e3b2fbb251796f47d96/e/92a0ed9a1042e4b97032f956
+      splash_video_url: https://www.youtube.com/embed/XnDXDmX2tS0
+      facebook_url: https://www.facebook.com/groups/ratrig3dprintercommunity
+      discord_url: https://discord.gg/D62e8XNeYa
 
 extra_css:
   - css/extra.css
@@ -95,7 +92,7 @@ markdown_extensions:
 
 nav:
     - index.md
-    - Order: https://www.ratrig.com/" target="_blank
+    - Order: https://www.ratrig.com/v-minion.html" target="_blank
     - bom.md
     - printed_parts.md
     - electronics.md
@@ -103,6 +100,6 @@ nav:
     - Build Guide: https://ratrig.dozuki.com/c/02._Rat_Rig_V-Minion" target="_blank
     - contribution.md
     - community.md
-    - Gallery: https://www.ratrig.com/" target="_blank
+    # - Gallery: https://www.ratrig.com/" target="_blank
     - videos.md
     - Contact: mailto:info@ratrig.com

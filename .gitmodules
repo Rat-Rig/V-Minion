@@ -1,0 +1,3 @@
+[submodule "ratrig-productpages"]
+	path = ratrig-productpages
+	url = git@github.com:Rat-Rig/ratrig-productpages.git
