@@ -60,6 +60,11 @@ The on-frame spool holder is designed to complement the V-Minion. Based upon the
 RatOS is developed in-house especially for our printers. It combines the power of the Klipper firmware, as well as several other open-source projects, to provide a stable and easy-to-use operating system for all your printing needs.
 ![](/assets/feature_ratos.png)
 
+## Dimensions
+![](/assets/dimensions_1.jpg)
+![](/assets/dimensions_2.jpg)
+![](/assets/dimensions_3.jpg)
+
 ## Support
 ### Build Guide
 The V-Minion has a comprehensive step-by-step build guide in both static and animated forms. Each section is broken down into easy to follow steps, detailing the parts needed and how to assemble them. A fully animated build video is also provided, should you wish to see exactly how each part is designed to fit together.
