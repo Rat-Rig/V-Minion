@@ -81,7 +81,6 @@ Rat Rig maintains an active user community on Facebook where you can connect wit
 Coming soon!
 
 ## Acknowledgments
-
 The V-Minion is an open-source project which is a result of countless hours of collaboration between our design team, the 3D printing community, and our beta team, all of whom share their knowledge freely to help push the 3D printing space forward as a whole. Being developed by using such a vast array of knowledge means that it is difficult to trace back any one idea, thus making attributions difficult at best. Regardless, we would like to acknowledge the following people and projects for their contribution to the V-Minion. They are as follows (in no particular order):
 
 - Paweł Kucmus
@@ -101,13 +100,12 @@ The V-Minion is an open-source project which is a result of countless hours of c
 - Harald Wagener
 
 ## License
-
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
 
 Even though the license is Non-commercial, we may (and most likely will) still allow commercial use on a case-by-case basis, if you ask us.
 
-Rat Rig was built on community mods - that's how products like the V-Core 3 came to life. Hindering contributions to the project is not the spirit of this license. Its intent is just to give us a bit more control over the product when it comes to competition from large-scale manufacturers. We are and always have been in favour of people building upon Rat Rig products. We welcome and encourage people to offer services, mods, and to use our product commercially, as long as you contact us first!
+Rat Rig was built on community mods - that's how products like the V-Minion came to life. Hindering contributions to the project is not the spirit of this license. Its intent is just to give us a bit more control over the product when it comes to competition from large-scale manufacturers. We are and always have been in favour of people building upon Rat Rig products. We welcome and encourage people to offer services, mods, and to use our product commercially, as long as you contact us first!
 
 [:material-email: Request a Commercial License](mailto:info@ratrig.com){: .md-button .md-button--primary}
