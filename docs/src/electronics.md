@@ -10,3 +10,6 @@ The default V-Minion configuration comes supplied with an SKR2 mainboard from BI
 ![](/assets/wiring_skr2_thumb.png)
 
 <center>[:material-magnify-plus: Click here to view the full size wiring diagram](/assets/wiring_skr2.png){: .md-button .md-button--primary target=_blank}</center>
+
+## Powering the Raspberry Pi from the SKR2
+![](/assets/wiring_skr2_pi_power.png)
