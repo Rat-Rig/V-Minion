@@ -8,7 +8,7 @@ hide:
 
 Below you can find the full bill of materials for the {{ ratrig.product_name }}.
 
-{{ hardware_bom("bom/vminion_26122021_2152.csv") }}
+{{ hardware_bom("bom/vminion_08022002_1225.csv") }}
 
 ### Printed parts
 {{ printed_parts_bom("machine", "bom/machine.json") }}
