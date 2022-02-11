@@ -6,9 +6,19 @@ hide:
 
 ## Official printed parts
 
-Rat Rig provides the source files for all official printed parts in both STL and STEP formats, as well as both STEP and DXF formats for any CNC cut panels. There can all be found on the [:material-github: {{ ratrig.product_name}} GitHub repository]({{ config.repo_url }}/tree/main/cad/). 
+Rat Rig provides the source files for all official printed parts in both STL and STEP formats. These can all be found on the [:material-github: {{ ratrig.product_name}} GitHub repository]({{ config.repo_url }}/tree/main/cad/). 
 
 Alternatively, if preferred, the whole project repository can be downloaded in a [:fontawesome-solid-archive: single ZIP package]({{ config.repo_url }}/archive/main.zip).
+
+## Electronics enclosure panels
+
+The source files for the electronics enclosure panels are provided in three different formats to suit your induvidual needs.
+
+- For laser cutting, industry standard DXF files are provided in both metric (millimeters) and imperial (inches) versions.
+- For CNC routing, or CAD applications, industry standard STEP files are provided, again in both metric (millimeters) and imperial (inches) versions.
+- Lastly, for 3D printing, STL files are provided if you wish to print your own electronics enclosure panels.
+
+All of these can be found [:material-github: here on the GitHub repository]({{ config.repo_url }}/tree/main/cad/panels/). 
 
 ## CAD
 
