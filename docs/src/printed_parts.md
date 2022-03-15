@@ -8,7 +8,7 @@ hide:
 
 Rat Rig provides the source files for all official printed parts in both STL and STEP formats. These can all be found on the [:material-github: {{ ratrig.product_name}} GitHub repository]({{ config.repo_url }}/tree/main/cad/). 
 
-Alternatively, if preferred, the whole project repository can be downloaded in a [:fontawesome-solid-archive: single ZIP package]({{ config.repo_url }}/archive/main.zip).
+Alternatively, if preferred, the whole project repository can be downloaded in a [:material-download-box: single ZIP package]({{ config.repo_url }}/archive/main.zip).
 
 ## Electronics enclosure panels
 

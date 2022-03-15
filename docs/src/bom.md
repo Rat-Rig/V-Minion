@@ -11,6 +11,10 @@ Below you can find the full bill of materials for the {{ ratrig.product_name }}.
 {{ hardware_bom("bom/vminion_08022002_1225.csv") }}
 
 ### Printed parts
+The entire set of printed parts can be downloaded in a [:material-download-box: single ZIP package]({{ config.repo_url }}/archive/main.zip)
+
+Once extracted, the printed parts can be found in printed_parts inside the cad folder.
+
 {{ printed_parts_bom("machine", "bom/machine.json") }}
 
 {{ printed_parts_bom("electronics case", "bom/elecronics_case.json") }}
