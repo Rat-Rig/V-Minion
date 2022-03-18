@@ -81,6 +81,7 @@ These images showcase 3D prints produced by V-Minion machines belonging to membe
 
 [![](/assets/samples/01_thumb.png)](/assets/samples/01.png){ target=_blank }
 [![](/assets/samples/02_thumb.png)](/assets/samples/02.png){ target=_blank }
+[![](/assets/samples/03_thumb.png)](/assets/samples/03.png){ target=_blank }
 
 ## Acknowledgments
 The V-Minion is an open-source project which is a result of countless hours of collaboration between our design team, the 3D printing community, and our beta team, all of whom share their knowledge freely to help push the 3D printing space forward as a whole. Being developed by using such a vast array of knowledge means that it is difficult to trace back any one idea, thus making attributions difficult at best. Regardless, we would like to acknowledge the following people and projects for their contribution to the V-Minion. They are as follows (in no particular order):
