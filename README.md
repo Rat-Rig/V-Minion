@@ -1,7 +1,7 @@
 # Rat Rig V-Minion
 
 ## Links
-[CAD (Onshape)](https://cad.onshape.com/documents/15a2d417ffe6419f44f2b12e/w/92c82e3b2fbb251796f47d96/e/92a0ed9a1042e4b97032f956)
+[CAD (Fusion 360)](https://a360.co/3rPymJS)
 
 [Project Page](https://v-minion.ratrig.com/)
 

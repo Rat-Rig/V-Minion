@@ -37,7 +37,7 @@ plugins:
   - ratrig-productpages-plugin:
       product_name: "V-Minion"
       order_url: https://www.ratrig.com/v-minion.html
-      cad_url: https://cad.onshape.com/documents/15a2d417ffe6419f44f2b12e/w/92c82e3b2fbb251796f47d96/e/92a0ed9a1042e4b97032f956
+      cad_url: https://a360.co/3rPymJS
       splash_video_url: https://www.youtube.com/embed/XnDXDmX2tS0
       facebook_url: https://www.facebook.com/groups/ratrig3dprintercommunity
       discord_url: https://discord.gg/D62e8XNeYa

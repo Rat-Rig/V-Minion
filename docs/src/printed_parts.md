@@ -22,7 +22,7 @@ All of these can be found [:material-github: here on the GitHub repository]({{ c
 
 ## CAD
 
-The 3D CAD model is freely available to view and download from [:fontawesome-solid-folder-open: Onshape]({{ ratrig.cad_url }}){ target="_blank" }.
+The 3D CAD model is freely available to view and download via the [:fontawesome-solid-folder-open: Rat Rig Fusion 360 online viewer]({{ ratrig.cad_url }}){ target="_blank" }.
 
 ## Recommended print settings
 
