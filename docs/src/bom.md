@@ -8,7 +8,7 @@ hide:
 
 !!! warning "WARNING: Regarding the Raspberry Pi shortage"
 
-    The standard V-Minion kits require a Raspberry Pi, but do not currently include one due to the worldwide semiconductor shortage. Our user community has voted and made their voice heard - we will not be changing the Standard kit build, as individual users are still able to source their own Raspberry Pi. 
+    The full V-Minion kit requires a Raspberry Pi, but does not currently include one due to the worldwide semiconductor shortage. Our user community has voted and made their voice heard - we will not be changing the full kit, as individual users are still able to source their own Raspberry Pi. 
     
     For sourcing a Raspberry Pi in your country, the [:material-link-box-variant:Raspberry Pi Locator](https://rpilocator.com/){: target=_blank} website can be of great assistance!
 
