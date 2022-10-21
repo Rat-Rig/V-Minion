@@ -6,9 +6,15 @@ hide:
 
 # Bill of Materials (BOM)
 
+!!! warning "WARNING: Regarding the Raspberry Pi shortage"
+
+    The standard V-Minion kits require a Raspberry Pi, but do not currently include one due to the worldwide semiconductor shortage. Our user community has voted and made their voice heard - we will not be changing the Standard kit build, as individual users are still able to source their own Raspberry Pi. 
+    
+    For sourcing a Raspberry Pi in your country, the [:material-link-box-variant:Raspberry Pi Locator](https://rpilocator.com/){: target=_blank} website can be of great assistance!
+
 Below you can find the full bill of materials for the {{ ratrig.product_name }}.
 
-{{ hardware_bom("bom/vminion_02062022_1713.csv") }}
+{{ hardware_bom("bom/vminion_21102022_1542.csv") }}
 
 ### Printed parts
 The entire set of printed parts can be downloaded in a [:material-download-box: single ZIP package]({{ config.repo_url }}/archive/main.zip)
@@ -17,7 +23,7 @@ Once extracted, the printed parts can be found in printed_parts inside the cad f
 
 {{ printed_parts_bom("machine", "bom/machine.json") }}
 
-{{ printed_parts_bom("electronics case", "bom/elecronics_case.json") }}
+{{ printed_parts_bom("electronics case", "bom/electronics_case.json") }}
 
 ### Printed electronics panels
 The electronics enclosure panels are included in the full V-Minion kit. These printable parts are only required should you decide to purchase a mechanical kit and do not wish to have the panels produced yourself.
