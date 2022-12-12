@@ -8,9 +8,9 @@ hide:
 
 !!! warning "WARNING: Regarding the Raspberry Pi shortage"
 
-    The full V-Minion kit requires a Raspberry Pi, but does not currently include one due to the worldwide semiconductor shortage. Our user community has voted and made their voice heard - we will not be changing the full kit, as individual users are still able to source their own Raspberry Pi. 
-    
-    For sourcing a Raspberry Pi in your country, the [:material-link-box-variant:Raspberry Pi Locator](https://rpilocator.com/){: target=_blank} website can be of great assistance!
+    The V-Minion requires a Raspberry Pi if you wish to use RatOS. However, due to the worldwide semiconductor shortage, availability of these can vary on a day-to-day basis. The store pages for the V-Minion kits now include a customizable option allowing purchase of a Raspberry Pi if required, and if they are currently in stock.
+
+    If the Raspberry Pi you wish to purchase is not currently in stock, the [:material-link-box-variant:Raspberry Pi Locator](https://rpilocator.com/){: target=_blank} website can be of great assistance in sourcing one in your country.
 
 Below you can find the full bill of materials for the {{ ratrig.product_name }}.
 
