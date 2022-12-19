@@ -14,7 +14,7 @@ hide:
 
 Below you can find the full bill of materials for the {{ ratrig.product_name }}.
 
-{{ hardware_bom("bom/vminion_07122022_0906.csv") }}
+{{ hardware_bom("bom/vminion_09122022_0939.csv") }}
 
 ### Printed parts
 The entire set of printed parts can be downloaded in a [:material-download-box: single ZIP package]({{ config.repo_url }}/archive/main.zip)
