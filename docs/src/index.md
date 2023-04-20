@@ -48,7 +48,7 @@ The V-Minion features a custom made, precision milled, 5mm bed plate designed fo
 ![](/assets/feature_bedheater.png)
 
 ### Enclosed Electronics Case
-All of the V-Minion electronics fit into the specially designed case. It has been designed to house the power supply, a Raspberry Pi, as well as your printer mainboard, all whilst providing cooling via a built-in 40mm fan. The default design supports the BTT SKR2, BTT SKR Mini and the BTT Octopus mainboards. The side panels are CNC manufactured from 4mm Polycarbonate, making them incredibly strong, but can also be printed if you prefer.
+All of the V-Minion electronics fit into the specially designed case. It has been designed to house the power supply, a Raspberry Pi, as well as your printer mainboard, all whilst providing cooling via a built-in 40mm fan. The default design supports the BTT SKRat, BTT SKR2, BTT SKR Mini and the BTT Octopus mainboards. The side panels are CNC manufactured from 4mm Polycarbonate, making them incredibly strong, but can also be printed if you prefer.
 ![](/assets/feature_case_1.png)
 ![](/assets/feature_case_2.png)
 
